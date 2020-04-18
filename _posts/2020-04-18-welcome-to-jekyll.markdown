@@ -1,25 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "把你冻僵滴是笑冷段儿"
 date:   2020-04-18 18:01:57 -0500
-categories: jekyll update
+categories: lengxiaohua
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+1、火云邪神苦练多年，终于将蛤蟆功练至顶级并成功产下8个小蝌蚪。
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2、老婆永远是对的，这话永远也是对的。但老婆没想到的是，她不一定永远是老婆
 
-Jekyll also offers powerful support for code snippets:
+3、小王一辈子窝囊废，行将就木之际就渴望被人夸一次。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+这份执念感动了老天爷，他派了一个大夫过来说：你这病吧，老厉害了。
+4、人生天地间没有谁是容易的，就算是思聪也得每天犯愁怎么花钱。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+5、“判断空气质量好不好可以抠鼻屎，黑的就是空气质量不好。”
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+“红的呢？”
+“你抠猛了！ ”
+6、昨晚预约了快递上门取件还预点了早餐，结果早上睡太死外卖打电话没听见，直接给我放门口窗台了，后来快递员来取件把我外卖寄走了。
+
+7、自己做菜，女朋友每次都吃的干干净净，一直自我感觉良好自己做菜手艺不错，有一天突然意识到，女朋友可能就是单纯的能吃。
+
+8、今天去理发，洗剪吹68，烫发和染发668。我就做了个洗剪吹，结账的时候发现居然收我668。。。
+
+我不服，1米95的经理走出来对我耐心地解释：你看哈，刚才洗头的时候，是不是感觉水很烫？？？
+9、啥叫点背？日他姐，干个活，不是驴不拉就是磨不转，驴拉了磨转了，缰绳又断了，缰绳接好了，驴去吃草了，不知谁TM又把驴给牵跑啦！干个毛线活，不干啦！
+
+10、特别讨厌食堂里写着：浪费粮食可耻之类的标语了，你把农民伯伯辛辛苦苦种出来的粮食，做得这么难吃，还有脸说别人无耻！！！
